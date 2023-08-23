@@ -98,7 +98,4 @@ After clicking on specific forum,  users will be able to like posts within forum
 ![alt text](/Images/Rap.png)
 
 
-### Status of Features
-Currently, all features are fully functional, with the minor exception of the chat page. I am working on fixing a bug where creating a new chat doesn’t display the first message until the page is refreshed. 
-
 
