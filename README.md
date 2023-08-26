@@ -7,6 +7,7 @@ Spotify Social is an application used to connect Spotify listeners around the wo
 1. [Installation](#installation)
 2. [How to Use](#how-to-use)
 3. [Major Components and Features](#major-components-and-features)
+4. [Credits](#credits)
 
 ### Installation
 In the reactSpotify directory: 
@@ -94,6 +95,8 @@ This page will display all the available discussion boards (forums). Users can c
 After clicking on specific forum,  users will be able to like posts within forums.
 
 ![alt text](/Images/Rap.png)
+### Credits
+This project was contributed by [simonanderson16](https://github.com/simonanderson16), [AfeyaJahin](https://github.com/AfeyaJahin), and [yash-d99](https://github.com/yash-d99)
 
 
 
