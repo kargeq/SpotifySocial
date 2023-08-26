@@ -8,7 +8,6 @@ Spotify Social is an application used to connect Spotify listeners around the wo
 2. [How to Use](#how-to-use)
 3. [Major Components and Features](#major-components-and-features)
 4. [Status of Features](#status-of-features)
-5. [Credits](#credits)
 
 ### Installation
 In the reactSpotify directory: 
