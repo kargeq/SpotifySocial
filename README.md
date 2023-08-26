@@ -92,7 +92,7 @@ This page will display all the available discussion boards (forums). Users can c
 
 
 #### Posts Page:
-After clicking on specific forum,  users will be able to like posts within forums.
+After clicking on specific forum,  users will  be able to like posts within forums.
 
 ![alt text](/Images/Rap.png)
 ### Credits
